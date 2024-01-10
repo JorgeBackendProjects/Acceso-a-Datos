@@ -1,0 +1,62 @@
+<Trayectos>
+	<Trayecto id='15'>
+		<fecha>07/01/2017</fecha>
+		<horaSalida>20:00</horaSalida>
+		<horaLlegada>21:15</horaLlegada>
+		<duracion>1.15</duracion>
+		<precio>10</precio>
+		<ciudadSalida>Portland</ciudadSalida>
+		<ciudadLlegada>Suiza</ciudadLlegada>
+		<transporte>Autocar</transporte>
+	</Trayecto>
+	<Trayecto id='16'>
+		<fecha>31/12/2017</fecha>
+		<horaSalida>21:00</horaSalida>
+		<horaLlegada>23:15</horaLlegada>
+		<duracion>2.15</duracion>
+		<precio>20</precio>
+		<ciudadSalida>Suizeland</ciudadSalida>
+		<ciudadLlegada>Ámsterdam</ciudadLlegada>
+		<transporte>Autocar</transporte>
+	</Trayecto>
+	<Trayecto id='17'>
+		<fecha>31/12/2017</fecha>
+		<horaSalida>21:00</horaSalida>
+		<horaLlegada>23:15</horaLlegada>
+		<duracion>2.15</duracion>
+		<precio>20</precio>
+		<ciudadSalida>Barcelona</ciudadSalida>
+		<ciudadLlegada>Rusia</ciudadLlegada>
+		<transporte>Autocar</transporte>
+	</Trayecto>
+	<Trayecto id='18'>
+		<fecha>07/01/2017</fecha>
+		<horaSalida>21:00</horaSalida>
+		<horaLlegada>23:00</horaLlegada>
+		<duracion>2</duracion>
+		<precio>14.9</precio>
+		<ciudadSalida>Portland</ciudadSalida>
+		<ciudadLlegada>Suiza</ciudadLlegada>
+		<transporte>Autocar</transporte>
+	</Trayecto>
+	<Trayecto id='19'>
+		<fecha>20/02/2023</fecha>
+		<horaSalida>21:00</horaSalida>
+		<horaLlegada>23:00</horaLlegada>
+		<duracion>2</duracion>
+		<precio>15.00</precio>
+		<ciudadSalida>Algeciras</ciudadSalida>
+		<ciudadLlegada>Sevilla</ciudadLlegada>
+		<transporte>Autobus</transporte>
+	</Trayecto>
+	<Trayecto id='20'>
+		<fecha>20/02/2023</fecha>
+		<horaSalida>14:00</horaSalida>
+		<horaLlegada>15:15</horaLlegada>
+		<duracion>1.15</duracion>
+		<precio>10.50</precio>
+		<ciudadSalida>Algeciras</ciudadSalida>
+		<ciudadLlegada>Malaga</ciudadLlegada>
+		<transporte>BlaBlaCar</transporte>
+	</Trayecto>
+</Trayectos>

@@ -1,0 +1,22 @@
+<Clientes>
+    <cliente id='1'>
+        <nombre>Juan</nombre>
+        <email>juan@gmail.com</email>
+        <telefono>111222333</telefono>
+    </cliente>
+    <cliente id='2'>
+        <nombre>Ana</nombre>
+        <email>ana@gmail.com</email>
+        <telefono>111444777</telefono>
+    </cliente>
+    <cliente id='3'>
+        <nombre>Maria</nombre>
+        <email>maria@gmail.com</email>
+        <telefono>111555999</telefono>
+    </cliente>
+    <cliente id='4'>
+        <nombre>Pepe</nombre>
+        <email>pepe@gmail.com</email>
+        <telefono>111666777</telefono>
+    </cliente>
+</Clientes>
